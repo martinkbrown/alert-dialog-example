@@ -3,5 +3,6 @@
 
     <string name="hello">Hello World, AlertDialogExample!</string>
     <string name="app_name">AlertDialogExample</string>
+    <string name="exit">Exit (Alert Dialog)</string>
 
 </resources>
